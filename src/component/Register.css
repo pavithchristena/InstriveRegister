@@ -1,5 +1,5 @@
 .mainContainer {
-    width: 550px;
+    /* width: 550px; */
     padding-left: 40px;
     gap: 10px;
     display: flex;
@@ -9,7 +9,7 @@
 .basicdetails {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
     /* height: 500%; */
 }
 
@@ -36,8 +36,30 @@
     /* height: 500%; */
 }
 
-.formsontainer {}
+.addbtn {
+    float: right;
+}
+
+.listingcontainer {
+    margin-top: 20px
+}
 
 .filediv {
     /* background-color: aqua; */
+    width: 500px;
+    padding-left: 60px;
+}
+
+.productpage {
+    padding-left: 100px;
+    padding-top: 30px;
+    gap: 20px
+}
+
+.backfinishbtn {
+
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-top: 40px;
 }

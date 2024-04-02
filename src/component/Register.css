@@ -1,0 +1,43 @@
+.mainContainer {
+    width: 550px;
+    padding-left: 40px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.basicdetails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* height: 500%; */
+}
+
+.cityfeild {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.postal {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.keycontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* height: 500%; */
+}
+
+.formsontainer {}
+
+.filediv {
+    /* background-color: aqua; */
+}
